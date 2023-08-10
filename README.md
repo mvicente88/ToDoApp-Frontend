@@ -62,6 +62,8 @@ A custom theme provider for managing light/dark mode.
 
 ## Demo
 
+- Click on the image below to see the demo ^^
+
 [![App demo](https://img.youtube.com/vi/4JgSnBwc4y4/0.jpg)](https://youtu.be/4JgSnBwc4y4)
 
 
